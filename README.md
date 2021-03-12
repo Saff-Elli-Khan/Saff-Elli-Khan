@@ -1,7 +1,5 @@
-<div align="center">
 <h1>Hi there 👋</h1>
-
-
+<div align="center">
 <img src="./programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpeg">
 
 
