@@ -8,7 +8,7 @@ Always try to find a better way to make things more powerful day by day ✌️
 </div>
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=red)
 
 
 <h2>Custom Projects</h2>
